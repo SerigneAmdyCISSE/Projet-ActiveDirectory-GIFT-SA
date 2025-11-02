@@ -6,6 +6,9 @@
 
 Ce projet a été réalisé dans le cadre de la mise en place d’une **infrastructure Active Directory complète** pour une entreprise fictive nommée **GIFT.SA**.  
 L’objectif principal est de **centraliser la gestion des utilisateurs, des ressources et des stratégies de sécurité** afin de renforcer la fiabilité du système d’information et de simplifier l’administration du parc informatique.
+<p align="center">
+  <img src="./images/ad.png" alt=" Image active dirctory" width="400">
+</p>
 
 ---
 
