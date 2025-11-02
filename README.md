@@ -15,7 +15,6 @@ L’objectif principal est de **centraliser la gestion des utilisateurs, des res
 - Déployer un **contrôleur de domaine principal (DC)** et un **contrôleur de domaine en lecture seule (RODC)** sur un site distant (Bordeaux).  
 - Créer une **arborescence d’annuaire** adaptée à la structure de l’entreprise.  
 - Mettre en œuvre des **stratégies de sécurité (GPO)** pour protéger les postes et les comptes.  
-- Installer et configurer **WSUS** pour le déploiement centralisé des mises à jour.  
 - Configurer la **réplication inter-sites** et fiabiliser l’architecture réseau.
 
 ---
